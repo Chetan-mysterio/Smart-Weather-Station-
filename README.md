@@ -6,8 +6,8 @@ A low-cost, Arduino-based real-time **weather and air quality monitoring system*
 
 ## 📷 Project Preview
 
-![Weather Station Front View](images/weather_station_front.jpg)
-![Sensor Wiring](images/weather_station_wiring.jpg)
+![Weather Station Front View](images/image1.jpg)
+![Sensor Wiring](images/image2.jpg)
 
 > _Place your actual project images in a folder named `/images` in the repo._
 
